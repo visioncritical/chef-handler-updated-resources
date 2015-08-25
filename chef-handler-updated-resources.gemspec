@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'chef-handler-updated-resources'
-  s.version = '0.2.0'
+  s.version = '0.2.1'
   s.platform = Gem::Platform::RUBY
   s.summary = 'Chef report handler to display resources updated in the Chef Run'
   s.description = s.summary
